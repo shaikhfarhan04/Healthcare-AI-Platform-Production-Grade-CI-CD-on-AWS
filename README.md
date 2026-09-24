@@ -1,7 +1,7 @@
 # Healthcare-AI-Platform-Production-Grade-CI-CD-on-AWS
 The architecture below deliberately combines AWS, Kubernetes/EKS, Terraform, CI/CD, security, observability, AI/ML, event-driven architecture, databases, data lake, disaster recovery and DevSecOps.
 
-Yes. These four use cases can be combined into **one production-style Healthcare AI platform on AWS**. That would make a much stronger DevOps project than building four unrelated applications.
+These four use cases can be combined into **one production-style Healthcare AI platform on AWS**. That would make a much stronger DevOps project than building four unrelated applications.
 
 A good project title would be:
 
